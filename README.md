@@ -1,11 +1,19 @@
 # Web Intro
-Write your first web page with HTML, CSS, and JS
+Write and publish your first web page with HTML, CSS, and JS
 
 
 ### Setup
 
-1. Fork this repo
-
+1. Create a class folder on your computer called `dig245`
+- Put it somewhere that makes sense. 
+- **Only use lowercase!** Capitalization matters on computers and the internet. This file `images/Logo.png` is different than this file `images/logo.png`
+2. Add a projects folder inside the class folder `dig245/projects/`
+3. Fork this repo
+4. Now clone the repo to or open it with Github on your own machine
+```
+git clone <repo_url>
+```
+5. Save it to your class projects folder
 
 
 
